@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Section10/BoxingUnboxingWrapper/BoxingUnboxingWrapper.iml" filepath="$PROJECT_DIR$/Section10/BoxingUnboxingWrapper/BoxingUnboxingWrapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section11/Date/Date.iml" filepath="$PROJECT_DIR$/Section11/Date/Date.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section11/Date02/Date02.iml" filepath="$PROJECT_DIR$/Section11/Date02/Date02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section08/Estoque/Estoque.iml" filepath="$PROJECT_DIR$/Section08/Estoque/Estoque.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section09/Ex001/Ex001.iml" filepath="$PROJECT_DIR$/Section09/Ex001/Ex001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section09/Ex002/Ex002.iml" filepath="$PROJECT_DIR$/Section09/Ex002/Ex002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section08/Exercicios/Exercicios.iml" filepath="$PROJECT_DIR$/Section08/Exercicios/Exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section10/ForEach/ForEach.iml" filepath="$PROJECT_DIR$/Section10/ForEach/ForEach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section10/ListEx01/ListEx01.iml" filepath="$PROJECT_DIR$/Section10/ListEx01/ListEx01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section10/Lists/Lists.iml" filepath="$PROJECT_DIR$/Section10/Lists/Lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section10/Matrices01/Matrices01.iml" filepath="$PROJECT_DIR$/Section10/Matrices01/Matrices01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section10/Matrices02/Matrices02.iml" filepath="$PROJECT_DIR$/Section10/Matrices02/Matrices02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringFunctions/StringFunctions.iml" filepath="$PROJECT_DIR$/StringFunctions/StringFunctions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section08/TrianguloHeron/TrianguloHeron.iml" filepath="$PROJECT_DIR$/Section08/TrianguloHeron/TrianguloHeron.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section10/Vectors01/Vectors01.iml" filepath="$PROJECT_DIR$/Section10/Vectors01/Vectors01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section10/Vectors02/Vectors02.iml" filepath="$PROJECT_DIR$/Section10/Vectors02/Vectors02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section10/VectorsEx01/VectorsEx01.iml" filepath="$PROJECT_DIR$/Section10/VectorsEx01/VectorsEx01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java.iml" filepath="$PROJECT_DIR$/.idea/java.iml" />
+    </modules>
+  </component>
+</project>
